@@ -72,8 +72,8 @@ use our computers.</i> -- Steve Jobs</p>
 <p><b>Core Principles</b></p>
 
 ● EASY TO USE MEANS PRODUCTIVE: Our program is simple, quick and easy to use,
-meaning less time spent on training, and troubleshooting, a more streamlines
-results.
+meaning less time spent on training, and troubleshooting, and a more efficient
+workforce.
 
 ● DESIGN MATTERS: what you choose for your company designs doesn’t just speak
 to those outside the business, but also to its employees. The image you project as
