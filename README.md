@@ -59,8 +59,8 @@ features are added they make it much more difficult to extend the program at a
 later point, particularly where it needs to interface with new software and
 hardware. This is why we only used what we needed for RSA-B <i>for</i> <b>Business</b>.
 
-● MAKE IT INTEROPERABLE: RSA-B <i>for</i> <b>Business</b> ​is design to work with all currently
-popular operating and networking systems, meaning that you can use RSA-B <i>for</i> <b>Business</b>for almost any communications task your business might have.
+● MAKE IT INTEROPERABLE: RSA-B <i>for</i> <b>Business</b> ​is designed to work with all currently
+popular operating and networking systems, meaning that you can use RSA-B <i>for</i> <b>Business</b> for almost any communications task your business might have.
 
 ● MAKE IT CUSTOMISABLE: RSA-B <i>for</i> <b>Business</b> ​has an optional plugin format that
 allows new features to be added on the fly without compromising core
