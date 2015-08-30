@@ -34,7 +34,7 @@ reason RSA-B <i>for</i> <b>Business</b> ​is designed with minimal points of en
 
 ● SIMPLICITY MEANS SECURITY: Simplicity of design means less to test, which in turn
 means that we were able to test every aspect of the program exhaustively, in real
-business critical scenarios.
+business-critical scenarios.
 
 ● SECURITY BEGINS WITH THE USER: At each stage in the process we have tested
 under business user scenarios, with real business users, to understand and model
