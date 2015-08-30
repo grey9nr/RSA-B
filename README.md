@@ -1,2 +1,2 @@
 # RC-B
-RSA Communicator for Business
+RSA Communicator <i>for</i> <b>Business</b>
