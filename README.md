@@ -13,7 +13,7 @@
 <p>RSA-B <i>for</i> <b>Business</b> differs from other commercial messaging systems, which are largely designed with consumers in mind. By contrast, RSA-B <i>for</i> <b>Business</b> is designed for business users, with security, flexibility and ease of use as its core philosophical objectives. It is the only messaging
 package to be designed exclusively for business.</p>
 <p>At LCR Design, we understand that one security failure could mean the leaking of highly sensitive
-data to your competitors, and in extreme cases, the destruction of an entire business. We can help
+data to your competitors and, in extreme cases, the destruction of an entire business. We can help
 you.</p>
 
 ###Product Outline: Specification
