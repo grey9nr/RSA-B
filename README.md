@@ -4,7 +4,7 @@
 <p>Designed exclusively for use by business networks.</p>
 </br></br>
 
-#RSA­-B for Business
+
 ##Technical Specification
 <i>Whatever words we utter should be chosen with care, for people will hear them -- and be influenced by them.</i>
 
