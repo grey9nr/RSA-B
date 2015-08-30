@@ -79,7 +79,7 @@ workforce.
 to those outside the business, but also to its employees. The image you project as
 a business owner can affect everything from your employee’s well-being, to their
 productivity, to their engagement with the business as a whole. For this reason
-RSA-B for Business ​includes multiple pre-set business stylings, as well as the ability
+RSA-B <i>for</i> <b>Business</b>​includes multiple pre-set business stylings, as well as the ability
 to create and set your own.
 
 ● MAKE EVERYTHING ACCESSIBLE: With the RSA-B <i>for</i> <b>Business</b> messenger every
