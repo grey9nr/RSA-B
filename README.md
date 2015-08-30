@@ -33,7 +33,8 @@ seek any point of entry through which the program allows data-flow. For this
 reason RSA-B <i>for</i> <b>Business</b> ​is designed with minimal points of entry. RSA-B <i>for</i> <b>Business</b> ​only sends data when you need it to, for the reasons you need it to.
 
 ● SIMPLICITY MEANS SECURITY: Simplicity of design means less to test, which in turn
-means that we were able to test every aspect of the program exhaustively.
+means that we were able to test every aspect of the program exhaustively, in real
+business critical scenarios.
 
 ● SECURITY BEGINS WITH THE USER: At each stage in the process we have tested
 under business user scenarios, with real business users, to understand and model
