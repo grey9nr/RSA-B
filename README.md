@@ -65,7 +65,7 @@ popular operating and networking systems, meaning that you can use RSA-B <i>for<
 allows new features to be added on the fly without compromising core
 functionality or security.
 
-<p><u>Ease of Use</u></p>
+###Ease of Use
 <p><i>This is what customers pay us for – to sweat all these details so it’s easy and pleasant for them to
 use our computers.</i> -- Steve Jobs</p>
 
