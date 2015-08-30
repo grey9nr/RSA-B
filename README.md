@@ -25,7 +25,7 @@ you.</p>
 <p>The RSA-B <i>for</i> <b>Business</b> ​messaging service is designed from the ground up as a secure system.
 While many consider the RSA cryptography to be close to unassailable, a cipher is only so good as the security of the program that uses it. To this purpose we have researched, evaluated and exhaustively tested every aspect of RSA-B <i>for</i> <b>Business</b> ​from a secure-user perspective.</p>
 
-<u>Core Principles</u>
+<p><u>Core Principles</u></p>
 
 ● CONSIDER POINTS OF ENTRY: A hacker or corporate competitor may gain access to
 your system through any server, client or application. A malicious user will then
@@ -51,7 +51,7 @@ either struggles to come to terms with new markets, or embraces the opportunitie
 When change needs to occur it needs to occur quickly, easily and without overly costly
 restructuring. For this reason, we designed RSA-B <i>for</i> <b>Business</b> ​with the ability to grow and change as technology and cultures move forward in new and often unexpected ways.</p>
 
-<u>Core Principles</u>
+<p><u>Core Principles</u></p>
 ● USE ONLY WHAT YOU NEED: Complex code libraries, large feature-sets and layered
 front-ends are all the rage at the moment, but when unnecessary, frivolous
 features are added they make it much more difficult to extend the program at a
